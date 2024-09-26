@@ -1,6 +1,0 @@
-unique_name: a
-object_type: metric
-label: A
-calculation_method: sum
-column: ''
-dataset: ''
